@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="shade_of_purple_toolbar">#9999ff</color>
+    <color name="toolbar_text">#e6e6ff</color>
+
+
+</resources>

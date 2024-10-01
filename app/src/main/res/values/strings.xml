@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">chhatiaw-MyBookWishlist</string>
+    <string name="book_wishlist">Book Wishlist:</string>
+    <string name="book_1">BOOK 1</string>
+
+    <string name="delete_item">delete icon</string>
+    <string name="status_description">Status</string>
+    <string name="chhatiaw_bookwishlist">chhatiaw-BookWishList</string>
+    <string name="year">Enter Year</string>
+    <string name="genre">Enter Genre</string>
+    <string name="author">Enter Author</string>
+    <string name="book_name">Enter Book Name</string>
+</resources>
