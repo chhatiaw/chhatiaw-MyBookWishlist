@@ -1,2 +1,2 @@
 # chhatiaw-MyBookWishlist
-Cmput301-Assignment1
+My Library Book List App
